@@ -1,2 +1,2 @@
 # IllocutionClassifier
-Multi-label classification for illocutionary acts
+Multi-label classification for illocutionary acts.
